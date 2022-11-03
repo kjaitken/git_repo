@@ -1,4 +1,4 @@
-README.md for finfunc.sh a script for parking data csv analysis. 
+README.md for 'finfunc.sh',  a shell script for parking data csv analysis. 
 
 DSI_assignment_GIT
 
