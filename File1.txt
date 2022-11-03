@@ -1,1 +1,3 @@
-examle to create a file
+example to create a file
+ fixed spelling mistake
+  making another edit
