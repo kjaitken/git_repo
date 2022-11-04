@@ -1,6 +1,5 @@
 README.md for 'finfunc.sh',  a shell script for parking data csv analysis. 
-
-DSI_assignment_GIT
+(This is a part of the DSI_GIT_Assignment.)
 
 This shell script analyses the parking-tags dataset from the Toronto city parking tags dataset from 2020 (http... ) 
 
