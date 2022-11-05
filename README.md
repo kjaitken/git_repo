@@ -1,4 +1,4 @@
-##**Script for DSI Certiifcate assignment**
+## **Script for DSI Certificate assignment**
 
 README.md for 'finfunc.sh',  a shell script for parking data csv analysis. 
 (This is a part of the DSI_GIT_Assignment.)
