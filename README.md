@@ -8,7 +8,7 @@ This shell script analyses the parking-tags dataset from the Toronto city parkin
 This script works with any other csv's just modify the column number (f) of your interest. 
 
 The script also defines
-  1. the unique type of parking infractions in the city of Toronto. 
+  1. the unique type of parking infractions in the city of Toronto, Canada.
   2. the infraction fees and location for a user-selected infraction type (typed in when prompted)
   3. the minimum, maximum and mean of the infraction fees from the csv
 
