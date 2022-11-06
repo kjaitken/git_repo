@@ -1,5 +1,7 @@
 ### **Script for Parking tag analysis ** 
-![image](https://user-images.githubusercontent.com/13381429/200179066-b5794a89-642c-4981-af5e-030585bd357b.png)
+
+![image](https://user-images.githubusercontent.com/13381429/200179113-977ed4fd-0c63-46c0-90e1-babaf7670548.png)
+
 
 README.md for 'finfunc.sh',  a shell script for parking data csv analysis. 
 
