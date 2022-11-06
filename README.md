@@ -1,9 +1,6 @@
-### **Script for Parking tag analysis ** 
+### Script for Parking tag analysis
 
-![image](https://user-images.githubusercontent.com/13381429/200179221-b6d2f6e7-0f97-4c2e-a48e-d51b3147f417.png)
-
-
-
+                                                                                     ![image](https://user-images.githubusercontent.com/13381429/200179221-b6d2f6e7-0f97-4c2e-a48e-d51b3147f417.png)
 README.md for 'finfunc.sh',  a shell script for parking data csv analysis. 
 
 This shell script analyses the parking-tags dataset from the Toronto city parking tags dataset from 2020 (http... ) 
