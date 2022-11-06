@@ -1,7 +1,6 @@
-## **Script for DSI Certificate assignment**
+### **Script for Parking tag analysis ** https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWinnbWyUnIyvbUcnI08_J3RY0tp8nM-CtumZPKEzfKg&s
 
 README.md for 'finfunc.sh',  a shell script for parking data csv analysis. 
-(This is a part of the DSI_GIT_Assignment.)
 
 This shell script analyses the parking-tags dataset from the Toronto city parking tags dataset from 2020 (http... ) 
 
