@@ -27,7 +27,7 @@ Everything else will just runs!
 ## ./outputs
   1. The unique types of parking infractions in the csv data, printed out and saved in the working directory as "parkingtypes.csv"
   2. the infraction fees and street location for a user-selected infraction type, printed out and saved in the working directory as "parkgrep.csv"
-  3. the minimum, maximum and mean of the particular csv's infraction fees, printed out.
+  3. the minimum, maximum and mean of the particular csv's infraction fees, printed out. <object data="https://img.shields.io/static/v1?label=Question&message=Unanswered&color=lightgrey&link=https://stackoverflow.com/&link=https://stackoverflow.com/questions/66716288/embedding-shields-io-badge-html-in-github-readme-rst"></object>
   
 ## Support and Contributors: 
  
