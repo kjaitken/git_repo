@@ -11,7 +11,7 @@ This README.md is for the [finally.sh](https://github.com/kjaitken/git_repo/blob
 A csv must be available as the first positional parameter. This parking csv file must be placed in the same working directory as the shell script, or the path to the csv must be defined in order for the csv to be recognized. This means that the positional parameter is listed after one space after the shell script.  
 Parking infraction data from [Toronto parking tags site](https://open.toronto.ca/dataset/parking-tickets/) includes many years worth of data including the csv's withing [2020 parking tags data](https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/8c233bc2-1879-44ff-a0e4-9b69a9032c54/resource/0d26a209-6e61-4154-9d7-8a6ad0e2d14d/download/parking-tickets-2020.zip). [finally.sh](https://github.com/kjaitken/git_repo/blob/main/finally.sh) is designed around the structure of the [Toronto city parking tags data](https://open.toronto.ca/dataset/parking-tickets/), but will work with csv's that contain similar character or numeric values in the same order as the [2020 parking tags data](https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/8c233bc2-1879-44ff-a0e4-9b69a9032c54/resource/0d26a209-6e61-4154-9d70-8a6ad0e2d14d/download/parking-tickets-2020.zip). 
 
-## Installation 
+## Installation and Usage
 To run this program on Unix shell (Terminal on a Mac) in the same directory as your files of interest, upload the shell script to your working directory with the parking.csv.
 Add the shell script and ensure permissions by typing : 
     touch finally.sh
@@ -21,7 +21,8 @@ To run, now type the shell function script along with the parking csv (see ./inp
     ./finally.sh Parking_Tags_Data_2020.000.csv
   
 A prompt will appear after the first analysis, requesting the user to type in a type of parking infraction for which more information on infraction fees and street location is desired. Details can be found in the comments of the shell script [finally.sh](https://github.com/kjaitken/git_repo/blob/main/finally.sh).
-Everything else will just run!
+Everything else will just run! 
+This can be also utilized for generating max, min and means of a set of numerical csv data. If the 5th column contains numeric data, this script is not restricted to bladder outlet obstruction data. 
 
 ## ./outputs
   1. The unique types of parking infractions in the csv data, printed out and saved in the working directory as "parkingtypes.csv"
