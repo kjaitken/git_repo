@@ -1,6 +1,6 @@
 ### README.md for Parking tag analysis          <img mg align="right" src="https://user-images.githubusercontent.com/13381429/200181080-fdca823f-52f0-433b-b4b4-32e6391cdc60.png" width=20% height=20%>
 
-This README.md is for 'finally.sh',  a shell script for parking data csv analysis. The script defines:
+This README.md is for '''finally.sh''',  a shell script for parking data csv analysis. The script defines:
 
   1. the unique types of parking infractions in the city of Toronto, Canada.
   2. the infraction fees and location for a user-selected infraction type (typed in when prompted)
@@ -9,11 +9,11 @@ This README.md is for 'finally.sh',  a shell script for parking data csv analysi
 
 ##Requirements  
 
-./inputs
+#./inputs 
 
-./outputs
+#./outputs
 
-./scripts
+#./scripts
 
  - Bash shell, including Bash commands grep, awk, cat, cut, echo, uniq, sort and others. 
  - A parking csv file must be selected as it is the first positional parameter which is used for anlaysis. This can found in the parking infraction data from [Toronto parking tags site](https://open.toronto.ca/dataset/parking-tickets/) : 
