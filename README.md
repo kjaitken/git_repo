@@ -24,7 +24,7 @@ A prompt will appear after the first analysis, requesting the user to type in a 
 Everything else will just run! 
 This can be also utilized for generating max, min and means of a set of numerical csv data. If the 5th column contains numeric data, this script is not restricted to bladder outlet obstruction data. 
 
-## ./outputs
+### ./outputs
   1. The unique types of parking infractions in the csv data, printed out and saved in the working directory as "parkingtypes.csv"
   2. the infraction fees and street location for a user-selected infraction type, printed out and saved in the working directory as "parkgrep.csv"
   3. the minimum, maximum and mean of the particular csv's infraction fees, printed out.
