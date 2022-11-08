@@ -10,7 +10,9 @@ This README.md is for 'finally.sh',  a shell script for parking data csv analysi
 ##Requirements  
 
 ./inputs
+
 ./outputs
+
 ./scripts
 
  - Bash shell, including Bash commands grep, awk, cat, cut, echo, uniq, sort and others. 
