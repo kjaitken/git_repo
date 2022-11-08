@@ -1,4 +1,4 @@
-### README.md for Parking tag analysis                      ![image](https://user-images.githubusercontent.com/13381429/200181080-fdca823f-52f0-433b-b4b4-32e6391cdc60.png |height=48px)
+### README.md for Parking tag analysis                      ![image](https://user-images.githubusercontent.com/13381429/200181080-fdca823f-52f0-433b-b4b4-32e6391cdc60.png  | width=100)
 
 This README.md is for 'finally.sh',  a shell script for parking data csv analysis. The script defines:
 
