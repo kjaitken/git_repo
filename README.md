@@ -13,7 +13,7 @@ Parking infraction data from [Toronto parking tags site](https://open.toronto.ca
 
 ## Installation
 
-To run this program on Bash (Terminal on a Mac) in the same directory as your files of interest, upload the shell script to your working directory with the parking.csv.
+To run this program on Unix shell (Terminal on a Mac) in the same directory as your files of interest, upload the shell script to your working directory with the parking.csv.
 Add the shell script and ensure permissions by typing : 
     touch finally.sh
     chmod 775 finally.sh
