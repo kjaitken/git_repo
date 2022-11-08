@@ -11,7 +11,7 @@ This README.md is for the [finally.sh](https://github.com/kjaitken/git_repo/blob
 A csv must be available as the first positional parameter. This parking csv file must be placed in the same working directory as the shell script, or the path to the csv must be defined in order for the csv to be recognized. This means that the positional parameter is listed after one space after the shell script.  
 Parking infraction data from [Toronto parking tags site](https://open.toronto.ca/dataset/parking-tickets/) includes many years worth of data including the csv's withing [2020 parking tags data](https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/8c233bc2-1879-44ff-a0e4-9b69a9032c54/resource/0d26a209-6e61-4154-9d7-8a6ad0e2d14d/download/parking-tickets-2020.zip). [finally.sh](https://github.com/kjaitken/git_repo/blob/main/finally.sh) is designed around the structure of the [Toronto city parking tags data](https://open.toronto.ca/dataset/parking-tickets/), but will work with csv's that contain similar character or numeric values in the same order as the [2020 parking tags data](https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/8c233bc2-1879-44ff-a0e4-9b69a9032c54/resource/0d26a209-6e61-4154-9d70-8a6ad0e2d14d/download/parking-tickets-2020.zip). 
 
-## Installation
+## Installation <object data="https://img.shields.io/static/v1?label=Question&message=Unanswered&color=lightgrey&link=https://stackoverflow.com/&link=https://stackoverflow.com/questions/66716288/embedding-shields-io-badge-html-in-github-readme-rst"></object>
 
 To run this program on Unix shell (Terminal on a Mac) in the same directory as your files of interest, upload the shell script to your working directory with the parking.csv.
 Add the shell script and ensure permissions by typing : 
