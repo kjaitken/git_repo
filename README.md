@@ -1,6 +1,6 @@
 ### README.md for Parking tag analysis          <img mg align="right" src="https://user-images.githubusercontent.com/13381429/200181080-fdca823f-52f0-433b-b4b4-32e6391cdc60.png" width=20% height=20%>
 
-This README.md is for '''finally.sh''',  a shell script for parking data csv analysis. The script defines:
+This README.md is for the [finally.sh](https://github.com/kjaitken/git_repo/blob/main/finally.sh) shell script for parking data csv analysis. The script defines:
 
   1. the unique types of parking infractions in the city of Toronto, Canada.
   2. the infraction fees and location for a user-selected infraction type (typed in when prompted)
