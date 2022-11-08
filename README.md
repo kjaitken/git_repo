@@ -20,7 +20,7 @@ To run, now type the shell function script along with the parking csv (see ./inp
     
     ./finally.sh Parking_Tags_Data_2020.000.csv
   
-A prompt will appear after the first analysis, requesting the user to type in a type of parking infraction for which more information on infraction fees and street location is desired. 
+A prompt will appear after the first analysis, requesting the user to type in a type of parking infraction for which more information on infraction fees and street location is desired. Details can be found in the comments of the shell script [finally.sh](https://github.com/kjaitken/git_repo/blob/main/finally.sh).
 Everything else will just run!
 
 ## ./outputs
