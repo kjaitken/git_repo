@@ -22,7 +22,7 @@ To run, now type the shell function script along with the parking csv (see ./inp
     ./finally.sh Parking_Tags_Data_2020.000.csv
   
 A prompt will appear after the first analysis, requesting the user to type in a type of parking infraction for which more information on infraction fees and street location is desired. 
-Everything else will just runs!
+Everything else will just run!
 
 ## ./outputs
   1. The unique types of parking infractions in the csv data, printed out and saved in the working directory as "parkingtypes.csv"
