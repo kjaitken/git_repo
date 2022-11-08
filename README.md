@@ -1,6 +1,6 @@
 # README.md for Parking tag analysis          <img mg align="right" src="https://user-images.githubusercontent.com/13381429/200181080-fdca823f-52f0-433b-b4b4-32e6391cdc60.png" width=20% height=20%>
 
-This README.md is for the [finally.sh](https://github.com/kjaitken/git_repo/blob/main/finally.sh) shell script which analyses parking infraction data in the city of Toronto, Canada. 
+This README.md is for the [finally.sh](https://github.com/kjaitken/git_repo/blob/main/finally.sh) shell script which analyses parking infraction data in the city of Toronto, Canada. This script was produced as part of the the Unix classes from the [Data Sciences Institute (DSI)](https://datasciences.utoronto.ca/) as part of the [DSI certificate program](https://datasciencecertificate.ca/). 
 
 ## Requirements  
 
@@ -30,4 +30,4 @@ Everything else will just run!
   
 ## Support and Contributors: 
  
-This script was written by KJ Aitken for the DSI Unix unit, with the additional help found for the [use of awk](https://stackoverflow.com/questions/214363/whats-the-quickest-way-to-get-the-mean-of-a-set-of-numbers-from-the-command-lin). Please contact [KJ Aitken](https://github.com/kjaitken) through github for any clarifications. Thank you!
+This script was written by KJ Aitken for the DSI Unix unit, with the additional help found for the [use of awk](https://stackoverflow.com/questions/214363/whats-the-quickest-way-to-get-the-mean-of-a-set-of-numbers-from-the-command-lin). Please contact [KJ Aitken](https://github.com/kjaitken) through github for any clarifications. Thank you to the DSI team !
