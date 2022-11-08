@@ -21,7 +21,7 @@ if [[ -f $1 ]];
 then
 		read grepvar
 		echo "Infraction_description, Set_fine_amount, Location2" > parkgrep.csv
-		cat $1 | cut -d, -f4 -f5 -f8 |sort |grep -iF "$grepvar" >> parkgrep.csv
+		cat $1 | cut -d, -f4 -f5 -f8 |sort -n |grep -iF "$grepvar" >> parkgrep.csv
 		echo "parkgrep.csv contains search results that are also printed here:"
 		cat parkgrep.csv
 		echo " "
